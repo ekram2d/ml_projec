@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>House Rent Prediction</title>
+        <style>
+            body {
+                gap: 4px;
+                font-family: 'Arial', sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 0;
+                flex-direction: column;
+                display: flex;
+                justify-content: center;
+                max-width: 400px;
+                margin: auto;
+                align-items: center;
+            }
+
+            form {
+                background-color: #f0cbcb;
+                padding: 20px;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                gap: 4px;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                text-align: center;
+            }
+
+            form div {
+                display: flex;
+            }
+
+            label {
+                flex: 1;
+                text-align: left;
+                font-weight: bold;
+                display: block;
+            }
+
+
+            input,
+            select {
+                flex: 1;
+                width: 100%;
+                padding: 10px;
+                box-sizing: border-box;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+            }
+
+            input:focus,
+            select:focus {
+                outline: 1px solid blue;
+            }
+
+            button {
+                background-color: #4caf50;
+                color: #fff;
+                border: none;
+                padding: 12px 20px;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            button:hover {
+                background-color: #45a049;
+            }
+
+            .result {
+                background-color: #fff;
+                padding: 20px;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                gap: 4px;
+                margin: auto;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>House Rent Prediction</h1>
+        <div class="result">
+            {% if upper_bound is defined and lower_bound is defined%}
+            <p>The Predicted Rent is: Tk {{ lower_bound }} - {{ upper_bound }}</p>
+            {% endif %}
+        </div>
+        <div>
+            <form id="rentPredictionForm" action="/predict" method="post">
+                <div class="field">
+                    <label for="city">City:</label>
+                    <select id="city" name="city" required onchange="updateAreas()">
+                        <option value="">Select option</option>
+                        <!-- <option value="Faridpur">Faridpur</option> -->
+                        <option value="Mymensingh">Mymensingh</option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="area">Area:</label>
+                    <select id="area" name="area" required>
+                        <!-- Area options will be dynamically populated here -->
+                    </select>
+                </div>
+
+                <div>
+                    <label for="size">Size:</label>
+                    <input type="number" id="size" name="size" required>
+                </div>
+                <div>
+                    <label for="bedroom">Bedrooms:</label>
+                    <input type="number" id="bedroom" name="bedroom" required>
+                </div>
+                <div>
+                    <label for="bathroom">Total Bathrooms:</label>
+                    <input type="number" id="bathroom" name="bathroom" required>
+                </div>
+
+                <div>
+                    <label for="attached_bathroom">Attached Bathrooms:</label>
+                    <input type="number" id="attached_bathroom" name="attached_bathroom" required>
+                </div>
+
+                <div>
+                    <label for="kitchen">Kitchen:</label>
+                    <select id="kitchen" name="kitchen" required>
+                        <option value="">Select option</option>
+                        <option value="1">
+                            Yes
+                        </option>
+                        <option value="0">
+                            No
+                        </option>
+                    </select>
+                </div>
+                <div>
+                    <label for="varanda">Varanda:</label>
+                    <input type="number" id="varanda" name="varanda" required>
+                </div>
+                <div>
+                    <label for="dining_room">Dining Room:</label>
+                    <input type="number" id="dining_room" name="dining_room" required>
+                </div>
+                <div>
+                    <label for="drawing_room">Drawing Room:</label>
+                    <input type="number" id="drawing_room" name="drawing_room" required>
+                </div>
+                <div>
+                    <label for="floor">Floor:</label>
+                    <input type="number" id="floor" name="floor" required>
+                </div>
+                <div>
+                    <label for="lift">Lift:</label>
+                    <select id="lift" name="lift" required>
+                        <option value="">Select option</option>
+                        <option value="1">
+                            Yes
+                        </option>
+                        <option value="0">
+                            No
+                        </option>
+                    </select>
+                </div>
+                <div>
+                    <label for="security">Security:</label>
+                    <select id="security" name="security" required>
+                        <option value="">Select option</option>
+                        <option value="1">
+                            Yes
+                        </option>
+                        <option value="0">
+                            No
+                        </option>
+                    </select>
+                </div>
+                <div>
+                    <label for="gasline">Gasline:</label>
+                    <select id="gasline" name="gasline" required>
+                        <option value="">Select option</option>
+                        <option value="1">
+                            Yes
+                        </option>
+                        <option value="0">
+                            No
+                        </option>
+                    </select>
+                </div>
+                <button type="submit">Predict Rent</button>
+            </form>
+
+        </div>
+
+        <script>
+
+            const areasByCity = {
+               Mymensingh: ["Boro Bazar", "Brahmaputra Ghat",  "Charpara", "Choto Bazar", "Fulbaria", "Ganginarpar", "Kachari Bazar", "Kachijhuli", "Police Line", "Station Road", " TownHall"]
+            };
+
+            function updateAreas() {
+                const citySelect = document.getElementById("city");
+                const areaSelect = document.getElementById("area");
+                const selectedCity = citySelect.value;
+
+                // Clear existing options
+                areaSelect.innerHTML = '<option value="">Select option</option>';
+
+                // Populate with new options based on the selected city
+                areasByCity[selectedCity].forEach(area => {
+                    const option = document.createElement("option");
+                    option.value = area;
+                    option.text = area;
+                    areaSelect.add(option);
+                });
+            }
+
+            // Initial population of areas when the page loads
+            updateAreas();
+        </script>
+
+
+    </body>
+</html>

@@ -1,0 +1,501 @@
+size,bed room,total bathroom,attached bathroom,kitchen,varanda,dining room,drawing room,floor,lift,security,gasline,rent,area,city
+1250,3,3,1,1,0,1,1,4,1,1,1,13000,Ganginarpar,Mymensingh
+950,3,2,2,1,0,1,0,3,1,1,1,9500,Boro Bazar,Mymensingh
+800,3,2,2,1,0,1,0,2,1,0,1,8000,Choto Bazar,Mymensingh
+1350,3,3,1,1,0,1,1,2,0,1,0,15000,Fulbaria,Mymensingh
+1250,3,3,3,1,1,1,1,3,1,1,1,13000,Ganginarpar,Mymensingh
+1400,3,3,1,1,1,1,1,3,1,1,1,13000,Fulbaria,Mymensingh
+3000,5,4,2,1,1,1,1,3,0,0,0,25000,Brahmaputra Ghat,Mymensingh
+950,3,3,1,1,0,1,0,2,1,0,1,9000,Kachari Bazar,Mymensingh
+1500,3,2,1,1,1,1,1,3,1,1,1,16000,Charpara,Mymensingh
+1100,2,2,1,1,1,1,1,3,1,1,1,12000,Ganginarpar,Mymensingh
+1540,3,2,1,1,1,1,0,4,1,0,1,17000,Ganginarpar,Mymensingh
+1250,3,3,1,1,2,1,0,3,0,0,0,13000,Fulbaria,Mymensingh
+600,1,1,0,1,1,1,0,4,0,0,1,6000,Choto Bazar,Mymensingh
+2500,4,4,3,1,1,1,1,3,0,1,0,20000,Brahmaputra Ghat,Mymensingh
+1700,3,3,0,1,1,1,1,3,1,0,1,17000,Boro Bazar,Mymensingh
+1700,3,3,0,1,0,1,0,4,1,1,1,16000,Fulbaria,Mymensingh
+1250,3,3,0,1,1,1,0,4,1,1,0,13000,Kachijhuli,Mymensingh
+1000,2,2,1,1,2,1,1,4,1,1,1,13000,Kachari Bazar,Mymensingh
+4000,4,5,1,1,2,1,1,2,1,0,1,17000,Kachari Bazar,Mymensingh
+2200,3,4,1,1,1,1,1,3,1,1,0,22000,TownHall,Mymensingh
+1100,2,2,1,1,1,1,0,2,0,1,0,12000,Charpara,Mymensingh
+1200,3,3,0,1,1,1,1,3,0,0,0,15000,Kachijhuli,Mymensingh
+1340,3,3,4,1,1,1,1,1,0,1,1,14000,Brahmaputra Ghat,Mymensingh
+1050,2,2,1,1,1,1,1,3,0,1,0,10000,Ganginarpar,Mymensingh
+1100,3,2,1,1,1,1,1,1,0,1,0,12000,Ganginarpar,Mymensingh
+700,2,2,2,1,2,1,1,4,1,0,0,7000,Choto Bazar,Mymensingh
+1250,3,3,1,1,1,1,1,1,1,0,0,13000,Fulbaria,Mymensingh
+1100,2,2,1,1,2,1,1,4,0,0,1,13000,Kachari Bazar,Mymensingh
+2200,3,4,0,1,1,1,1,2,0,0,1,20000,Boro Bazar,Mymensingh
+800,2,2,2,1,2,1,1,3,1,0,0,7500,Kachari Bazar,Mymensingh
+600,1,1,0,1,2,1,1,1,0,1,0,5000,Boro Bazar,Mymensingh
+980,2,2,0,1,1,1,0,4,0,0,1,8000,Kachijhuli,Mymensingh
+720,2,2,1,1,1,1,0,1,0,1,1,5000,Kachijhuli,Mymensingh
+800,2,2,0,1,2,1,1,1,1,0,0,5000,Fulbaria,Mymensingh
+1350,3,3,0,1,2,1,1,3,1,1,1,18000,Brahmaputra Ghat,Mymensingh
+3000,3,4,0,1,1,1,1,1,1,0,1,26000,Brahmaputra Ghat,Mymensingh
+1400,3,3,2,1,2,1,1,2,0,1,1,15000,Kachari Bazar,Mymensingh
+1460,3,2,0,1,2,1,1,2,1,1,0,15000,Brahmaputra Ghat,Mymensingh
+1250,3,3,0,1,1,1,0,2,0,1,0,13000,Station Road,Mymensingh
+2000,3,4,0,1,1,1,0,3,0,0,0,20000,Fulbaria,Mymensingh
+2500,3,4,1,1,2,1,0,2,0,1,1,23000,Fulbaria,Mymensingh
+8000,4,5,0,1,2,1,1,4,0,1,1,30000,Brahmaputra Ghat,Mymensingh
+1350,3,3,1,1,2,1,1,3,1,0,1,14000,TownHall,Mymensingh
+2400,3,4,1,1,1,1,1,3,1,1,1,22000,Fulbaria,Mymensingh
+2200,3,4,0,1,1,1,1,3,1,1,1,22000,Boro Bazar,Mymensingh
+1665,3,3,2,1,1,1,1,1,0,0,0,18000,Charpara,Mymensingh
+850,3,2,0,1,2,1,1,3,1,1,0,7500,Station Road,Mymensingh
+1500,3,2,1,1,2,1,1,4,1,0,0,18000,Charpara,Mymensingh
+600,1,1,0,1,2,1,1,4,0,1,1,7000,Charpara,Mymensingh
+750,2,2,0,1,2,1,1,4,1,0,0,8000,Kachijhuli,Mymensingh
+1250,3,3,0,1,1,1,0,1,0,0,1,13000,Ganginarpar,Mymensingh
+3600,5,4,3,1,1,1,0,2,1,0,1,17000,Kachari Bazar,Mymensingh
+1350,3,3,2,1,1,1,0,1,1,0,1,14000,Charpara,Mymensingh
+850,2,1,0,1,2,1,1,1,0,0,1,7500,Charpara,Mymensingh
+1200,3,3,2,1,2,1,1,1,0,1,0,13000,Charpara,Mymensingh
+1500,3,2,1,1,2,1,0,1,1,1,1,14000,Charpara,Mymensingh
+900,2,1,0,1,0,0,0,4,1,1,0,8000,Kachijhuli,Mymensingh
+1660,3,3,2,1,0,0,0,4,1,0,1,17000,Boro Bazar,Mymensingh
+1800,3,3,1,1,0,1,0,2,1,1,0,17000,TownHall,Mymensingh
+2100,4,3,2,1,0,1,0,3,1,0,1,20000,Station Road,Mymensingh
+1250,2,2,1,1,1,0,0,4,0,0,0,15000,Fulbaria,Mymensingh
+1850,3,4,2,1,1,0,0,1,1,0,0,13000,Kachijhuli,Mymensingh
+1850,3,4,4,1,1,1,1,4,1,0,1,20000,Boro Bazar,Mymensingh
+1450,3,3,0,1,1,1,0,2,0,1,0,16000,Ganginarpar,Mymensingh
+2000,4,3,2,1,1,1,0,2,0,1,0,19000,Charpara,Mymensingh
+880,2,2,1,1,1,1,0,2,1,0,1,8000,Choto Bazar,Mymensingh
+1350,3,3,2,1,1,1,1,3,0,1,1,17000,Ganginarpar,Mymensingh
+1000,2,2,1,1,1,1,1,3,1,1,0,10000,Boro Bazar,Mymensingh
+3600,5,4,3,1,1,1,1,1,1,1,0,30000,Charpara,Mymensingh
+800,2,2,1,1,0,0,0,3,1,1,0,6000,TownHall,Mymensingh
+1100,2,2,1,1,0,0,0,4,0,1,0,15000,Station Road,Mymensingh
+1850,3,3,2,1,0,0,0,2,0,1,0,20000,Fulbaria,Mymensingh
+2400,3,3,0,1,0,1,1,1,1,0,0,22000,Choto Bazar,Mymensingh
+1300,3,3,1,1,0,1,0,3,1,1,1,15000,Kachari Bazar,Mymensingh
+1500,3,2,1,1,0,1,1,4,1,0,0,18000,Kachari Bazar,Mymensingh
+1200,3,3,1,1,0,1,1,1,0,1,1,13000,Ganginarpar,Mymensingh
+1350,3,3,3,1,2,1,1,2,1,1,0,16000,Kachijhuli,Mymensingh
+3500,5,5,2,1,2,1,1,2,1,0,0,25000,Fulbaria,Mymensingh
+2600,5,4,2,1,2,1,1,3,0,1,0,23000,Boro Bazar,Mymensingh
+900,2,1,0,1,2,1,1,4,1,1,0,9000,Boro Bazar,Mymensingh
+1350,3,3,2,1,2,1,1,4,1,1,0,17000,Choto Bazar,Mymensingh
+1350,3,3,1,1,0,0,0,4,0,1,1,18000,Brahmaputra Ghat,Mymensingh
+1500,3,2,1,1,0,0,0,1,0,1,0,20000,Charpara,Mymensingh
+850,2,2,1,1,0,1,0,4,1,1,1,7000,Fulbaria,Mymensingh
+850,2,2,1,1,0,1,0,4,0,0,1,7500,Ganginarpar,Mymensingh
+1150,2,2,1,1,1,1,0,1,0,1,1,13000,Charpara,Mymensingh
+1200,3,2,3,1,1,1,0,4,0,1,1,13000,Kachijhuli,Mymensingh
+950,2,2,2,1,1,1,1,3,1,1,0,10000,Charpara,Mymensingh
+1400,3,3,3,1,1,1,1,4,0,1,0,18000,Charpara,Mymensingh
+2090,3,3,2,1,1,1,1,2,1,1,1,23000,Kachari Bazar,Mymensingh
+2000,3,3,0,1,2,1,0,1,1,0,0,20000,TownHall,Mymensingh
+850,2,2,2,1,2,1,0,4,0,0,0,8500,TownHall,Mymensingh
+1100,2,2,1,1,2,1,1,3,1,1,0,13000,Brahmaputra Ghat,Mymensingh
+1070,2,2,0,1,2,1,1,2,1,1,0,15000,Station Road,Mymensingh
+1250,3,2,0,1,1,1,0,2,1,0,1,18000,Boro Bazar,Mymensingh
+1400,3,2,1,1,0,1,0,3,0,1,0,19000,Charpara,Mymensingh
+1250,3,2,0,1,0,1,0,3,0,0,1,18000,Ganginarpar,Mymensingh
+1150,3,2,1,1,0,1,0,1,1,1,0,15000,Kachari Bazar,Mymensingh
+1200,3,3,0,1,0,1,0,4,0,0,1,12000,Fulbaria,Mymensingh
+800,2,2,0,1,0,1,0,3,1,1,1,8000,Station Road,Mymensingh
+1200,2,2,0,1,2,1,0,4,0,1,0,9000,Kachari Bazar,Mymensingh
+800,3,3,1,1,2,1,1,4,0,1,1,15000,TownHall,Mymensingh
+800,1,1,0,1,2,1,1,3,1,1,1,7000,Boro Bazar,Mymensingh
+1400,3,3,2,1,2,1,1,3,0,1,0,19000,Brahmaputra Ghat,Mymensingh
+700,3,3,1,1,1,1,1,2,1,1,1,18000,TownHall,Mymensingh
+1460,2,1,1,1,1,1,1,3,0,1,1,7000,Fulbaria,Mymensingh
+1700,3,3,1,1,1,1,0,2,1,1,1,14000,Station Road,Mymensingh
+800,4,4,3,1,1,1,0,2,0,1,1,20000,Fulbaria,Mymensingh
+1200,2,1,0,1,1,1,0,3,1,0,1,9000,Brahmaputra Ghat,Mymensingh
+2530,1,1,0,1,1,1,0,3,0,0,0,7000,TownHall,Mymensingh
+900,3,3,4,1,1,1,0,3,1,1,1,17000,Ganginarpar,Mymensingh
+650,3,2,1,1,1,1,0,4,0,0,0,15000,Boro Bazar,Mymensingh
+2000,2,2,2,1,1,1,0,4,0,1,1,8000,Boro Bazar,Mymensingh
+1500,3,2,3,1,2,1,0,4,1,1,1,13000,TownHall,Mymensingh
+720,3,3,1,1,1,1,0,3,1,0,0,13000,Boro Bazar,Mymensingh
+1200,3,2,2,1,2,1,1,2,0,1,1,13000,Station Road,Mymensingh
+1200,2,2,3,1,1,1,1,4,0,0,0,8000,Fulbaria,Mymensingh
+1350,3,3,1,1,1,1,1,4,1,0,0,13000,Charpara,Mymensingh
+800,2,2,2,1,1,1,1,1,1,1,1,13000,Station Road,Mymensingh
+1200,3,3,1,1,2,1,1,3,1,1,1,13000,Brahmaputra Ghat,Mymensingh
+1250,2,2,2,1,2,1,1,2,0,0,0,8500,Ganginarpar,Mymensingh
+1300,4,4,1,1,3,1,1,1,0,0,0,20000,Choto Bazar,Mymensingh
+850,3,2,0,1,3,1,1,4,1,0,0,12000,Boro Bazar,Mymensingh
+2200,3,3,2,1,2,1,1,1,0,1,0,15000,Kachijhuli,Mymensingh
+1100,3,3,1,1,2,1,1,1,1,1,0,16000,Charpara,Mymensingh
+1400,3,3,2,1,2,1,0,1,1,0,1,17000,Ganginarpar,Mymensingh
+1300,3,3,2,1,2,1,0,3,0,1,0,18000,Boro Bazar,Mymensingh
+1850,3,3,2,1,2,1,1,4,0,0,1,18000,Charpara,Mymensingh
+1680,3,3,0,1,2,1,1,4,0,0,0,15000,Choto Bazar,Mymensingh
+1887,2,1,2,1,2,1,1,2,0,1,0,8000,Station Road,Mymensingh
+1300,3,3,4,1,2,1,0,3,0,1,1,15500,Boro Bazar,Mymensingh
+750,3,3,0,1,1,1,0,3,1,0,1,15000,TownHall,Mymensingh
+1400,3,2,1,1,2,1,0,2,1,1,1,17000,Brahmaputra Ghat,Mymensingh
+1400,2,2,1,1,1,1,1,3,1,0,1,9000,Station Road,Mymensingh
+1500,3,4,2,1,1,1,1,2,1,0,1,17000,TownHall,Mymensingh
+850,2,1,0,1,1,1,0,1,0,0,1,9000,Brahmaputra Ghat,Mymensingh
+1550,4,4,1,1,1,1,1,2,0,1,1,19000,Station Road,Mymensingh
+900,2,3,0,1,1,1,1,1,0,0,1,20000,Station Road,Mymensingh
+2100,3,3,2,1,3,1,1,1,1,1,1,18000,Boro Bazar,Mymensingh
+2250,4,3,0,1,2,1,1,2,0,1,0,17000,Kachijhuli,Mymensingh
+1630,2,2,0,1,2,1,1,4,1,0,1,8500,Kachari Bazar,Mymensingh
+1800,2,2,1,1,2,1,1,4,1,1,0,7500,Kachari Bazar,Mymensingh
+850,4,4,1,1,0,1,1,3,0,0,1,20000,Choto Bazar,Mymensingh
+720,3,2,2,1,1,1,1,1,1,0,0,12000,Kachijhuli,Mymensingh
+2300,6,5,4,1,1,1,1,1,0,1,1,27000,Boro Bazar,Mymensingh
+1050,3,2,0,1,2,1,1,2,0,0,1,18000,Station Road,Mymensingh
+3200,2,2,1,1,1,1,0,4,1,1,1,9000,Brahmaputra Ghat,Mymensingh
+1400,3,5,0,1,1,1,0,1,1,1,1,23000,Brahmaputra Ghat,Mymensingh
+950,3,3,1,1,1,1,1,2,1,0,1,15000,Fulbaria,Mymensingh
+2250,3,2,1,1,1,1,1,2,0,1,1,14000,Kachari Bazar,Mymensingh
+1600,1,1,1,1,1,1,1,3,0,1,0,8000,Choto Bazar,Mymensingh
+1350,3,3,2,1,2,1,1,3,1,0,1,20000,Boro Bazar,Mymensingh
+800,3,4,0,1,1,1,0,2,1,1,1,18000,Kachari Bazar,Mymensingh
+1650,3,3,1,1,1,1,1,1,0,0,0,19000,Charpara,Mymensingh
+1700,3,3,2,1,4,1,1,1,1,0,0,13000,Choto Bazar,Mymensingh
+1800,4,4,2,1,0,1,0,2,1,1,0,25000,Kachari Bazar,Mymensingh
+1200,3,2,0,1,3,1,1,3,1,0,0,13000,Kachari Bazar,Mymensingh
+2900,1,1,0,1,2,1,1,1,0,0,1,6000,Ganginarpar,Mymensingh
+1200,3,3,1,1,4,1,1,3,1,0,1,18000,Boro Bazar,Mymensingh
+600,3,3,0,1,1,1,1,1,1,1,1,20000,Kachijhuli,Mymensingh
+1600,3,2,0,1,1,1,1,3,0,0,1,10000,Boro Bazar,Mymensingh
+2450,2,2,1,1,2,1,1,1,0,0,0,8500,Kachijhuli,Mymensingh
+1000,3,3,0,1,3,1,1,2,0,1,1,13000,Ganginarpar,Mymensingh
+850,2,2,1,1,3,1,1,3,1,1,1,7500,Ganginarpar,Mymensingh
+1200,3,3,3,1,2,1,1,4,1,0,1,13000,Charpara,Mymensingh
+750,3,3,1,1,2,1,1,4,0,0,1,17000,Choto Bazar,Mymensingh
+1210,3,3,1,1,2,1,0,4,0,1,0,17000,Kachijhuli,Mymensingh
+1350,3,3,2,1,2,1,0,3,0,0,0,15000,Brahmaputra Ghat,Mymensingh
+1610,3,3,2,1,2,1,1,2,1,0,1,17000,TownHall,Mymensingh
+1654,1,1,0,1,2,1,1,1,1,1,0,8500,Boro Bazar,Mymensingh
+1650,3,2,1,1,2,1,1,3,1,0,1,16500,Boro Bazar,Mymensingh
+850,3,3,0,1,2,1,0,2,0,0,0,14000,Kachijhuli,Mymensingh
+1200,3,3,0,1,1,1,0,3,1,1,0,15000,Kachijhuli,Mymensingh
+800,3,3,0,1,2,1,0,2,1,1,1,15500,Kachari Bazar,Mymensingh
+1200,3,2,1,1,1,1,1,4,1,1,0,18000,Boro Bazar,Mymensingh
+1650,3,2,1,1,1,1,1,3,1,0,1,18000,Fulbaria,Mymensingh
+1500,2,2,1,1,1,1,0,4,1,1,0,9500,Kachijhuli,Mymensingh
+2200,1,1,0,1,2,1,1,2,1,0,1,7200,TownHall,Mymensingh
+1347,2,1,0,1,2,1,1,2,1,1,1,8000,Brahmaputra Ghat,Mymensingh
+1200,3,3,2,1,2,1,1,2,0,0,0,19000,Kachari Bazar,Mymensingh
+1500,2,2,1,1,2,1,1,2,1,1,0,13000,Charpara,Mymensingh
+1050,3,3,1,1,2,1,1,4,0,1,1,20000,Charpara,Mymensingh
+1100,4,4,1,1,2,1,1,1,0,0,0,19500,Choto Bazar,Mymensingh
+1684,2,2,1,1,2,1,1,3,1,0,0,10000,Charpara,Mymensingh
+1125,2,2,1,1,2,1,1,3,0,1,0,13500,Kachari Bazar,Mymensingh
+2481,3,3,1,1,2,1,1,2,1,1,1,15000,Station Road,Mymensingh
+1884,3,3,2,1,2,1,1,2,0,1,1,13000,Choto Bazar,Mymensingh
+1970,3,3,1,1,2,1,1,2,0,0,1,18000,Kachari Bazar,Mymensingh
+874,3,3,0,1,2,1,1,1,1,0,0,13000,TownHall,Mymensingh
+1332,2,2,2,1,2,1,1,3,0,1,1,8000,Ganginarpar,Mymensingh
+1860,3,3,1,1,2,1,1,3,1,0,1,13000,Kachari Bazar,Mymensingh
+1439,3,4,1,1,2,1,1,4,1,0,0,17000,Charpara,Mymensingh
+1424,3,2,1,1,2,1,1,2,0,0,0,15000,Kachari Bazar,Mymensingh
+1337,4,5,0,1,2,1,1,2,0,1,1,20000,Charpara,Mymensingh
+2022,3,3,2,1,2,1,1,1,0,0,0,14500,Kachari Bazar,Mymensingh
+1253,3,2,1,1,2,1,1,4,1,1,1,13000,Choto Bazar,Mymensingh
+2459,3,2,1,1,2,1,1,2,1,0,1,17000,Kachijhuli,Mymensingh
+1800,3,2,2,1,2,1,1,3,1,0,0,12000,TownHall,Mymensingh
+1618,3,2,0,1,2,1,1,2,0,0,0,12000,Ganginarpar,Mymensingh
+2020,3,3,2,1,2,1,1,1,1,1,1,18000,TownHall,Mymensingh
+926,3,2,1,1,1,1,1,4,1,0,1,20000,TownHall,Mymensingh
+1481,3,3,1,1,0,1,1,3,1,0,0,12000,Station Road,Mymensingh
+1746,4,3,2,1,0,1,1,4,1,0,1,23000,Choto Bazar,Mymensingh
+1307,3,3,2,1,0,1,1,1,1,0,1,17000,Brahmaputra Ghat,Mymensingh
+2037,2,1,0,1,0,1,1,2,1,0,1,18000,Brahmaputra Ghat,Mymensingh
+2190,2,3,1,1,1,1,1,1,1,0,1,8000,Station Road,Mymensingh
+2135,2,4,2,1,1,1,1,2,0,1,1,13000,Police Line,Mymensingh
+1337,3,3,2,1,1,1,1,2,0,0,0,18000,Ganginarpar,Mymensingh
+1259,3,3,2,1,0,1,1,1,0,0,0,13000,Kachari Bazar,Mymensingh
+2377,3,2,2,1,1,1,1,1,1,1,1,13000,TownHall,Mymensingh
+1601,4,3,1,1,1,1,1,4,0,1,1,14000,TownHall,Mymensingh
+1837,3,2,1,1,1,1,1,2,0,1,1,18000,Police Line,Mymensingh
+1548,3,3,0,1,2,1,1,1,1,0,1,12000,Charpara,Mymensingh
+2349,2,2,1,1,1,1,1,4,0,1,0,20000,Kachari Bazar,Mymensingh
+2429,2,2,0,1,1,1,1,2,1,0,0,16000,Boro Bazar,Mymensingh
+2493,2,3,3,1,1,1,1,2,1,1,0,15000,Kachari Bazar,Mymensingh
+1776,2,1,0,1,0,1,1,3,0,0,1,18000,Police Line,Mymensingh
+1185,3,3,2,1,1,1,1,4,0,0,0,9000,Choto Bazar,Mymensingh
+1182,3,3,2,1,2,1,1,4,1,0,1,13000,Charpara,Mymensingh
+2388,2,2,1,1,2,1,1,1,0,1,0,16000,Station Road,Mymensingh
+1738,4,2,1,1,1,1,1,4,1,1,1,13000,TownHall,Mymensingh
+905,2,3,3,1,1,1,1,2,1,0,1,19000,Kachijhuli,Mymensingh
+1314,4,3,1,1,1,1,1,4,0,1,0,20000,Brahmaputra Ghat,Mymensingh
+1324,3,3,1,1,1,1,1,1,0,1,0,20000,Kachijhuli,Mymensingh
+1547,2,2,1,1,1,1,1,3,0,1,1,12000,Station Road,Mymensingh
+2166,4,4,3,1,1,1,1,4,0,1,1,12500,Boro Bazar,Mymensingh
+2441,2,3,3,1,2,1,1,1,1,1,1,12000,Ganginarpar,Mymensingh
+970,3,3,2,1,1,1,1,4,1,1,0,15000,Kachijhuli,Mymensingh
+2148,3,2,1,1,2,1,1,4,0,0,0,17000,Boro Bazar,Mymensingh
+2039,4,4,3,1,1,1,1,2,1,0,0,15000,Kachijhuli,Mymensingh
+2037,4,4,3,1,2,1,1,3,1,1,0,22000,TownHall,Mymensingh
+1720,4,4,3,1,2,1,1,1,1,0,0,22000,Boro Bazar,Mymensingh
+1960,3,3,2,1,1,1,1,2,0,1,1,23000,Ganginarpar,Mymensingh
+1374,2,2,0,1,1,1,1,2,1,0,1,17000,Station Road,Mymensingh
+2274,2,2,1,1,2,1,1,3,0,1,0,12000,Choto Bazar,Mymensingh
+1298,5,4,3,1,2,1,1,3,1,1,1,12000,Ganginarpar,Mymensingh
+1089,2,3,0,1,1,1,1,3,0,0,1,22000,TownHall,Mymensingh
+1054,2,1,0,1,2,1,1,3,1,0,1,16000,Brahmaputra Ghat,Mymensingh
+2332,3,3,2,1,2,1,1,3,0,0,1,9000,Brahmaputra Ghat,Mymensingh
+1213,3,3,1,1,1,1,1,3,1,1,0,12000,Kachari Bazar,Mymensingh
+1376,3,2,1,1,1,1,1,2,1,0,1,13000,Ganginarpar,Mymensingh
+866,4,3,1,1,2,1,1,2,0,1,1,14000,Brahmaputra Ghat,Mymensingh
+1904,5,4,3,1,2,1,1,1,1,0,0,20000,Choto Bazar,Mymensingh
+1980,2,1,0,1,2,1,1,1,0,0,0,23000,Station Road,Mymensingh
+2295,4,4,1,1,1,1,1,4,0,0,1,9000,Brahmaputra Ghat,Mymensingh
+1785,4,3,2,1,1,1,1,2,1,0,1,19000,Ganginarpar,Mymensingh
+1304,4,3,2,1,1,1,1,4,1,1,0,20000,Station Road,Mymensingh
+1682,3,2,1,1,2,1,1,1,1,0,0,20000,Choto Bazar,Mymensingh
+1363,3,3,2,1,2,1,1,1,0,1,0,17000,Charpara,Mymensingh
+1703,3,2,1,1,2,1,1,4,0,0,1,18000,Kachijhuli,Mymensingh
+1229,4,4,3,1,2,1,1,2,0,1,0,12000,Boro Bazar,Mymensingh
+2146,2,2,1,1,1,1,1,2,1,1,1,20000,Boro Bazar,Mymensingh
+1805,2,2,1,1,1,1,1,3,0,1,0,12000,Charpara,Mymensingh
+1018,3,2,1,1,1,1,1,4,1,0,0,10000,Kachari Bazar,Mymensingh
+2432,4,3,1,1,2,1,1,3,1,1,1,10000,Police Line,Mymensingh
+1894,2,1,0,1,2,1,1,3,0,1,1,20000,Police Line,Mymensingh
+1145,2,2,1,1,2,1,1,3,0,1,1,10000,Police Line,Mymensingh
+1277,2,1,0,1,0,1,1,1,1,1,0,12000,Kachari Bazar,Mymensingh
+1841,2,2,2,1,0,1,1,3,0,1,0,8000,Charpara,Mymensingh
+1823,2,2,0,1,0,1,1,1,1,1,0,17000,Kachijhuli,Mymensingh
+948,4,4,3,1,0,1,1,2,1,1,1,18000,Kachari Bazar,Mymensingh
+1355,3,3,2,1,1,1,1,4,1,1,0,20000,Choto Bazar,Mymensingh
+2096,2,2,1,1,1,1,1,2,0,0,0,15000,TownHall,Mymensingh
+2322,3,3,2,1,1,1,1,1,1,0,0,12000,Kachari Bazar,Mymensingh
+1151,2,2,1,1,1,1,1,3,0,0,0,15000,Ganginarpar,Mymensingh
+1082,3,3,2,1,1,1,1,2,1,0,0,12000,Kachari Bazar,Mymensingh
+1785,2,2,1,1,1,1,1,1,1,1,0,16000,Police Line,Mymensingh
+1674,4,3,2,1,1,1,1,1,0,1,0,12000,TownHall,Mymensingh
+1902,3,3,2,1,1,1,1,3,1,0,1,18000,Station Road,Mymensingh
+833,2,1,0,1,1,1,1,4,0,1,1,17000,Station Road,Mymensingh
+1695,5,4,3,1,0,1,1,1,0,1,1,9000,Kachijhuli,Mymensingh
+853,4,4,4,1,0,1,1,4,0,1,0,20000,Ganginarpar,Mymensingh
+2306,2,1,0,1,0,1,1,1,0,0,1,17000,Kachijhuli,Mymensingh
+1354,2,2,1,1,0,1,1,1,0,1,0,10000,TownHall,Mymensingh
+844,4,3,1,1,0,1,1,2,1,0,0,10000,Choto Bazar,Mymensingh
+1002,4,3,1,1,0,1,1,3,0,0,0,15000,Police Line,Mymensingh
+1739,2,1,0,1,0,1,1,3,1,1,1,17000,Brahmaputra Ghat,Mymensingh
+1304,3,2,1,1,2,1,1,4,0,0,0,9000,Ganginarpar,Mymensingh
+1810,4,3,2,1,2,1,1,2,0,0,0,12000,Brahmaputra Ghat,Mymensingh
+1248,5,4,3,1,2,1,1,4,0,1,1,17000,TownHall,Mymensingh
+1274,2,1,0,1,2,1,1,1,1,0,1,20000,TownHall,Mymensingh
+2312,3,4,4,1,2,1,1,2,1,0,0,10000,Station Road,Mymensingh
+1917,3,3,2,1,0,1,1,4,1,1,0,9000,Boro Bazar,Mymensingh
+839,3,3,2,1,0,1,1,3,0,0,1,14000,Kachari Bazar,Mymensingh
+2057,2,3,1,1,0,1,1,4,1,1,0,13000,TownHall,Mymensingh
+2367,3,3,2,1,0,1,1,3,1,0,1,17000,TownHall,Mymensingh
+1026,3,3,2,1,1,1,1,2,0,0,0,8000,TownHall,Mymensingh
+2299,2,2,1,1,1,1,1,4,1,1,0,15000,Boro Bazar,Mymensingh
+2099,5,5,4,1,1,1,1,3,0,0,0,8000,TownHall,Mymensingh
+2025,3,3,0,1,1,1,1,1,0,1,0,20000,Kachijhuli,Mymensingh
+1455,2,1,0,1,1,1,1,3,0,0,0,12000,Police Line,Mymensingh
+2060,2,3,0,1,2,1,1,3,1,0,0,8000,Station Road,Mymensingh
+1174,3,3,2,1,2,1,1,4,1,1,1,10000,Brahmaputra Ghat,Mymensingh
+2216,3,3,3,1,2,1,1,1,1,1,1,15000,Boro Bazar,Mymensingh
+1648,4,4,2,1,2,1,1,2,1,0,0,12000,TownHall,Mymensingh
+850,2,1,0,1,1,1,1,3,1,0,0,15000,Boro Bazar,Mymensingh
+2467,5,6,2,1,0,1,1,3,1,0,1,11000,Kachijhuli,Mymensingh
+1473,4,5,0,1,0,1,1,3,1,0,0,11000,Kachijhuli,Mymensingh
+826,4,3,2,1,0,1,1,3,0,1,1,20000,Choto Bazar,Mymensingh
+2173,2,1,1,1,0,1,1,4,1,0,1,17000,Ganginarpar,Mymensingh
+1806,5,5,3,1,0,1,1,2,1,1,0,8000,Kachari Bazar,Mymensingh
+2459,5,4,3,1,2,1,1,3,0,1,0,17000,Ganginarpar,Mymensingh
+856,2,1,0,1,2,1,1,4,1,1,0,20000,Boro Bazar,Mymensingh
+2349,5,5,2,1,2,1,1,2,0,0,0,9000,Charpara,Mymensingh
+1150,4,4,3,1,2,1,1,2,0,1,0,17000,Boro Bazar,Mymensingh
+1134,4,4,3,1,1,1,1,4,1,0,1,15000,Brahmaputra Ghat,Mymensingh
+1050,3,4,3,1,1,1,1,4,0,0,1,18000,TownHall,Mymensingh
+1721,4,3,2,1,1,1,1,2,0,1,1,12000,TownHall,Mymensingh
+1785,2,1,0,1,1,1,1,1,1,0,0,17000,Kachijhuli,Mymensingh
+2390,5,3,2,1,1,1,1,1,1,0,1,10000,Ganginarpar,Mymensingh
+1592,3,2,1,1,1,1,1,2,0,0,0,18000,Choto Bazar,Mymensingh
+2018,1,1,0,1,1,1,1,2,0,0,1,15000,Kachijhuli,Mymensingh
+2243,5,3,2,1,1,1,1,2,1,0,0,8000,TownHall,Mymensingh
+986,3,3,1,1,1,1,1,1,0,0,1,20000,Charpara,Mymensingh
+2426,2,1,0,1,2,1,1,2,1,1,1,12000,Charpara,Mymensingh
+1196,4,4,2,1,1,1,1,4,0,1,0,7000,Boro Bazar,Mymensingh
+958,3,3,2,1,2,1,1,1,0,0,1,17000,Charpara,Mymensingh
+1470,5,4,3,1,1,1,1,3,0,1,0,16000,Kachijhuli,Mymensingh
+995,2,1,0,1,1,1,1,1,1,1,1,22000,Boro Bazar,Mymensingh
+2375,5,4,4,1,1,1,1,1,1,0,0,7000,Ganginarpar,Mymensingh
+1415,2,1,0,1,2,1,1,4,0,0,1,20000,Kachari Bazar,Mymensingh
+1479,2,1,0,1,2,1,1,2,0,1,1,9000,Boro Bazar,Mymensingh
+1305,2,1,0,1,3,1,1,2,0,1,0,9000,Charpara,Mymensingh
+1286,3,3,2,1,3,1,1,4,0,1,1,9000,Charpara,Mymensingh
+1557,2,2,1,1,2,1,1,1,0,0,1,15000,Brahmaputra Ghat,Mymensingh
+1258,4,3,2,1,2,1,1,2,0,0,1,15000,Choto Bazar,Mymensingh
+1768,3,2,1,1,2,1,1,2,0,0,1,19000,Ganginarpar,Mymensingh
+2447,4,3,2,1,2,1,1,1,1,0,1,13000,Station Road,Mymensingh
+2159,5,3,2,1,2,1,1,3,0,0,1,17000,Choto Bazar,Mymensingh
+1147,2,1,0,1,2,1,1,3,1,0,1,19000,Ganginarpar,Mymensingh
+1205,5,3,1,1,2,1,1,1,1,0,0,8000,Ganginarpar,Mymensingh
+2087,2,2,1,1,2,1,1,3,1,0,0,20000,Police Line,Mymensingh
+1416,2,1,1,1,1,1,1,1,0,1,1,10000,Station Road,Mymensingh
+1338,3,2,1,1,2,1,1,2,1,1,1,8000,TownHall,Mymensingh
+2320,2,1,0,1,1,1,1,3,1,0,0,12000,Brahmaputra Ghat,Mymensingh
+2292,5,4,3,1,1,1,1,3,0,0,1,8000,Ganginarpar,Mymensingh
+1414,3,3,2,1,1,1,1,4,1,1,1,20000,Kachijhuli,Mymensingh
+2349,2,3,2,1,1,1,1,2,0,1,1,12000,TownHall,Mymensingh
+1800,3,3,2,1,1,1,1,1,1,1,1,12000,Police Line,Mymensingh
+868,2,2,1,1,3,1,1,3,0,1,1,11000,Ganginarpar,Mymensingh
+2232,3,2,1,1,2,1,1,4,1,0,0,10000,Brahmaputra Ghat,Mymensingh
+961,3,3,2,1,2,1,1,4,1,0,1,13000,Brahmaputra Ghat,Mymensingh
+2086,3,2,1,1,2,1,1,2,1,1,1,10000,Ganginarpar,Mymensingh
+1825,5,3,2,1,0,1,1,1,0,0,0,15000,Police Line,Mymensingh
+2371,5,4,2,1,1,1,1,3,1,1,1,20000,Ganginarpar,Mymensingh
+1669,2,2,1,1,1,1,1,2,0,1,0,18000,Kachari Bazar,Mymensingh
+1735,2,2,1,1,2,1,1,1,0,1,0,10000,Choto Bazar,Mymensingh
+1594,4,4,3,1,1,1,1,4,1,1,0,10000,Kachari Bazar,Mymensingh
+2110,3,3,2,1,1,1,1,4,1,0,0,18000,Kachari Bazar,Mymensingh
+1578,2,2,1,1,1,1,1,2,1,1,0,12000,Ganginarpar,Mymensingh
+1654,4,4,2,1,1,1,1,1,0,0,1,12000,Brahmaputra Ghat,Mymensingh
+1382,3,3,1,1,1,1,1,2,0,0,0,20000,Choto Bazar,Mymensingh
+1096,2,3,0,1,2,1,1,2,0,0,0,19000,Boro Bazar,Mymensingh
+2044,5,4,3,1,1,1,1,1,1,0,1,13000,Brahmaputra Ghat,Mymensingh
+1669,4,2,1,1,1,1,1,4,1,1,0,20000,TownHall,Mymensingh
+960,2,3,0,1,4,1,1,3,1,1,0,16000,TownHall,Mymensingh
+1837,4,3,2,1,0,1,1,4,0,0,0,7000,TownHall,Mymensingh
+2164,2,1,0,1,3,1,1,3,1,0,0,18000,Station Road,Mymensingh
+820,5,4,2,1,2,1,1,3,1,1,0,8000,TownHall,Mymensingh
+1814,3,3,2,1,4,1,1,3,0,1,0,17000,Choto Bazar,Mymensingh
+1091,4,4,1,1,1,1,1,1,1,0,1,17000,Ganginarpar,Mymensingh
+2043,3,2,1,1,1,1,1,1,1,0,0,20000,Ganginarpar,Mymensingh
+937,2,3,3,1,2,1,1,1,1,0,0,15000,Station Road,Mymensingh
+1983,3,2,1,1,3,1,1,2,1,0,0,15000,TownHall,Mymensingh
+2147,5,4,2,1,3,1,1,2,1,0,1,14000,Kachari Bazar,Mymensingh
+1455,3,2,1,1,2,1,1,2,1,1,0,18000,TownHall,Mymensingh
+2284,3,2,1,1,2,1,1,4,1,0,1,14000,Boro Bazar,Mymensingh
+1673,2,2,1,1,2,1,1,1,1,1,1,15000,TownHall,Mymensingh
+986,4,5,3,1,2,1,1,4,1,0,1,12000,Charpara,Mymensingh
+948,2,2,1,1,2,1,1,4,0,0,0,9000,Police Line,Mymensingh
+1655,3,2,1,1,2,1,1,2,0,0,0,18000,Choto Bazar,Mymensingh
+1504,2,1,0,1,2,1,1,4,1,0,0,15000,Ganginarpar,Mymensingh
+1428,3,3,2,1,2,1,1,2,1,0,0,8000,Choto Bazar,Mymensingh
+1998,4,3,2,1,1,1,1,2,0,0,1,17000,Station Road,Mymensingh
+1848,2,1,0,1,2,1,1,2,0,1,0,18000,TownHall,Mymensingh
+1949,3,3,2,1,1,1,1,3,1,1,1,7000,Kachari Bazar,Mymensingh
+1045,2,2,1,1,1,1,1,1,0,0,0,16000,Boro Bazar,Mymensingh
+1295,4,3,2,1,1,1,1,4,1,1,0,9000,Kachari Bazar,Mymensingh
+1120,2,1,0,1,2,1,1,2,0,0,1,18000,Station Road,Mymensingh
+1859,4,3,2,1,2,1,1,3,0,0,0,8000,Station Road,Mymensingh
+801,3,3,3,1,2,1,1,1,1,0,1,18000,Boro Bazar,Mymensingh
+2110,3,3,2,1,2,1,1,3,1,0,0,19000,Police Line,Mymensingh
+2322,5,4,3,1,2,1,1,2,0,0,1,13000,Kachari Bazar,Mymensingh
+2407,3,3,1,1,2,1,1,1,1,0,1,19000,Brahmaputra Ghat,Mymensingh
+1720,2,1,0,1,2,1,1,1,0,1,0,15000,Brahmaputra Ghat,Mymensingh
+1216,2,1,0,1,2,1,1,2,1,1,1,8000,Ganginarpar,Mymensingh
+1367,3,3,2,1,2,1,1,1,0,1,1,8000,Brahmaputra Ghat,Mymensingh
+2220,3,2,1,1,2,1,1,2,0,1,0,15000,Station Road,Mymensingh
+2227,3,3,2,1,2,1,1,3,0,1,1,14000,Ganginarpar,Mymensingh
+2140,3,3,2,1,2,1,1,4,0,0,1,13000,Charpara,Mymensingh
+1146,3,3,2,1,2,1,1,3,1,1,0,17000,Brahmaputra Ghat,Mymensingh
+1998,5,3,2,1,2,1,1,3,1,1,1,17000,Charpara,Mymensingh
+954,2,4,2,1,2,1,1,3,0,1,0,18000,TownHall,Mymensingh
+958,2,2,1,1,2,1,1,3,1,0,1,9000,Station Road,Mymensingh
+1888,2,2,1,1,2,1,1,1,1,0,1,11000,Ganginarpar,Mymensingh
+2405,3,3,2,1,2,1,1,2,1,0,1,10000,Police Line,Mymensingh
+1016,1,1,0,1,2,1,1,3,1,1,1,17000,Kachijhuli,Mymensingh
+1337,4,4,3,1,2,1,1,1,1,0,0,7000,Brahmaputra Ghat,Mymensingh
+1975,4,4,4,1,2,1,1,4,0,1,0,19000,Boro Bazar,Mymensingh
+903,2,3,1,1,2,1,1,1,0,1,1,20000,Brahmaputra Ghat,Mymensingh
+1706,4,5,1,1,2,1,1,3,1,1,1,22000,Choto Bazar,Mymensingh
+1973,2,2,1,1,1,1,1,2,1,0,0,15000,Choto Bazar,Mymensingh
+2293,3,2,2,1,0,1,1,1,0,1,1,11000,Ganginarpar,Mymensingh
+927,5,4,3,1,0,1,1,4,1,0,0,12000,Kachijhuli,Mymensingh
+1416,5,4,3,1,0,1,1,1,1,1,0,20000,Choto Bazar,Mymensingh
+2325,5,4,2,1,0,1,1,3,0,0,0,20000,Police Line,Mymensingh
+1823,2,2,1,1,1,1,1,3,1,0,1,19000,Police Line,Mymensingh
+2202,3,3,2,1,1,1,1,3,1,0,0,10000,TownHall,Mymensingh
+1060,2,2,0,1,1,1,1,1,1,0,1,18000,Choto Bazar,Mymensingh
+1447,2,2,0,1,0,1,1,1,1,0,1,8500,TownHall,Mymensingh
+991,4,4,3,1,1,1,1,3,1,1,0,8500,Kachari Bazar,Mymensingh
+1888,5,5,4,1,1,1,1,2,1,1,1,17000,Police Line,Mymensingh
+954,2,1,0,1,1,1,1,4,1,0,1,22000,Boro Bazar,Mymensingh
+1020,3,2,1,1,2,1,1,3,1,0,1,9000,Ganginarpar,Mymensingh
+1477,4,4,3,1,1,1,1,4,1,0,1,12000,Boro Bazar,Mymensingh
+2186,2,1,0,1,1,1,1,1,0,0,1,18000,Kachijhuli,Mymensingh
+1060,3,3,2,1,1,1,1,1,1,1,1,8000,Ganginarpar,Mymensingh
+1629,4,4,0,1,0,1,1,3,0,0,0,16000,Boro Bazar,Mymensingh
+1992,2,2,0,1,1,1,1,2,0,1,1,17000,Police Line,Mymensingh
+1345,2,4,0,1,2,1,1,2,1,1,1,19000,Police Line,Mymensingh
+982,3,5,4,1,2,1,1,4,0,0,0,8000,Station Road,Mymensingh
+2002,5,5,4,1,1,1,1,1,1,1,0,12000,Boro Bazar,Mymensingh
+1088,4,3,2,1,1,1,1,4,0,1,0,21000,Brahmaputra Ghat,Mymensingh
+1347,5,4,2,1,1,1,1,3,1,1,1,16000,Charpara,Mymensingh
+1325,2,1,0,1,1,1,1,2,0,0,0,20000,Charpara,Mymensingh
+1644,3,3,2,1,1,1,1,1,0,1,1,9000,Station Road,Mymensingh
+1214,1,1,0,1,1,1,1,2,1,1,1,12000,Station Road,Mymensingh
+2005,4,4,3,1,2,1,1,4,1,0,1,9000,Choto Bazar,Mymensingh
+829,2,2,1,1,1,1,1,3,0,0,0,16000,Kachijhuli,Mymensingh
+2364,2,2,1,1,2,1,1,3,1,1,0,8000,Police Line,Mymensingh
+2233,3,3,2,1,1,1,1,2,1,1,1,9000,Choto Bazar,Mymensingh
+1169,3,3,2,1,2,1,1,4,1,1,1,12000,Boro Bazar,Mymensingh
+873,2,1,0,1,2,1,1,1,1,0,1,17000,Kachari Bazar,Mymensingh
+1395,2,3,0,1,1,1,1,4,1,0,1,8000,Ganginarpar,Mymensingh
+1694,4,3,2,1,1,1,1,4,0,0,1,15000,Kachari Bazar,Mymensingh
+1152,2,2,2,1,2,1,1,3,1,0,0,17000,Charpara,Mymensingh
+2338,1,1,1,1,2,1,1,4,0,0,1,11000,Choto Bazar,Mymensingh
+1398,5,4,3,1,1,1,1,3,0,1,0,9000,Charpara,Mymensingh
+1043,2,2,0,1,2,1,1,2,0,0,0,17000,TownHall,Mymensingh
+1444,2,2,1,1,2,1,1,3,0,1,1,9000,Charpara,Mymensingh
+1712,3,3,1,1,1,1,1,1,1,0,1,12000,TownHall,Mymensingh
+1285,3,3,1,1,1,1,1,2,0,0,1,12000,Charpara,Mymensingh
+1010,2,2,1,1,2,1,1,3,0,0,1,15000,Brahmaputra Ghat,Mymensingh
+1343,4,4,3,1,2,1,1,1,1,0,0,11000,Charpara,Mymensingh
+1108,1,1,0,1,2,1,1,3,0,1,1,18000,Choto Bazar,Mymensingh
+832,5,5,4,1,1,1,1,1,0,1,0,7000,Charpara,Mymensingh
+1672,5,4,3,1,1,1,1,2,0,0,1,20000,Police Line,Mymensingh
+1618,2,2,1,1,1,1,1,2,0,0,0,20000,Choto Bazar,Mymensingh
+1510,1,1,0,1,2,1,1,3,0,0,0,10000,Charpara,Mymensingh
+1720,3,3,2,1,2,1,1,1,1,1,0,7000,Kachari Bazar,Mymensingh
+2500,3,3,2,1,2,1,1,4,0,0,0,11000,Kachari Bazar,Mymensingh
+1046,2,1,0,1,2,1,1,4,0,0,0,15000,TownHall,Mymensingh
+1522,4,3,3,1,1,1,1,3,0,0,1,10000,Station Road,Mymensingh
+2145,3,2,1,1,1,1,1,4,1,0,1,20000,Kachari Bazar,Mymensingh
+2251,2,1,0,1,1,1,1,1,0,1,1,12000,Ganginarpar,Mymensingh
+2104,3,2,1,1,2,1,1,2,0,1,0,9000,Police Line,Mymensingh
+2177,2,2,1,1,2,1,1,1,0,1,0,12000,Station Road,Mymensingh
+827,2,2,1,1,2,1,1,2,1,0,0,16000,Charpara,Mymensingh
+1403,1,1,0,1,0,1,1,4,1,0,0,10000,Kachijhuli,Mymensingh
+1728,3,3,1,1,0,1,1,3,1,0,0,9000,Police Line,Mymensingh
+919,2,1,0,1,0,1,1,2,1,1,1,11000,Kachari Bazar,Mymensingh
+1073,2,1,0,1,0,1,1,3,1,1,1,10000,Choto Bazar,Mymensingh
+1023,3,3,1,1,1,1,1,4,1,1,1,7000,Brahmaputra Ghat,Mymensingh
+1679,3,3,2,1,1,1,1,2,0,1,0,15000,Boro Bazar,Mymensingh
+2034,3,2,1,1,1,1,1,3,1,0,1,15000,Police Line,Mymensingh
+2406,3,2,1,1,1,1,1,3,0,1,0,14000,TownHall,Mymensingh
+1280,3,5,1,1,1,1,1,2,0,0,1,15000,Boro Bazar,Mymensingh
+1922,2,1,0,1,1,1,1,4,0,0,1,22000,Brahmaputra Ghat,Mymensingh
+1728,3,2,1,1,1,1,1,3,0,0,1,9000,Boro Bazar,Mymensingh
+2195,5,4,3,1,1,1,1,2,1,1,0,14000,TownHall,Mymensingh
+2270,5,4,3,1,1,1,1,4,1,1,0,20000,Kachijhuli,Mymensingh
+963,4,3,2,1,0,1,1,2,1,0,0,20000,Kachari Bazar,Mymensingh
+1013,4,3,1,1,0,1,1,4,0,0,0,18000,TownHall,Mymensingh
+1830,2,1,0,1,0,1,1,1,1,0,1,18000,Ganginarpar,Mymensingh
+1921,3,2,1,1,0,1,1,3,0,1,1,7000,Kachijhuli,Mymensingh
+1793,3,2,1,1,0,1,1,2,1,1,1,13000,Kachijhuli,Mymensingh
+1475,2,1,0,1,0,1,1,2,1,1,0,16000,Kachijhuli,Mymensingh
+2046,2,2,1,1,0,1,1,3,1,0,0,8000,Station Road,Mymensingh
+1222,2,2,0,1,2,1,1,2,1,1,1,9000,Charpara,Mymensingh
+1526,3,2,1,1,2,1,1,2,0,0,0,9000,Kachari Bazar,Mymensingh
+1862,4,3,2,1,2,1,1,4,0,1,0,14000,Station Road,Mymensingh
+1875,5,4,3,1,2,1,1,3,0,1,0,18000,Police Line,Mymensingh
+1004,2,2,1,1,2,1,1,3,1,0,0,22000,Choto Bazar,Mymensingh
+900,4,4,1,1,0,1,1,2,0,0,1,10000,TownHall,Mymensingh
+1013,3,2,1,1,0,1,1,4,0,0,1,18000,Brahmaputra Ghat,Mymensingh
+1830,4,4,3,1,0,1,1,2,0,1,0,16000,Kachari Bazar,Mymensingh
+1921,5,4,3,1,0,1,1,4,0,1,0,19000,Station Road,Mymensingh
+1793,2,2,0,1,1,1,1,3,0,1,1,20000,Boro Bazar,Mymensingh
+1475,2,2,1,1,1,1,1,2,0,1,1,8000,Choto Bazar,Mymensingh
+2046,3,3,2,1,1,1,1,1,0,0,0,9000,Station Road,Mymensingh
+1222,3,2,1,1,1,1,1,1,1,0,1,17000,TownHall,Mymensingh
+1526,3,3,1,1,1,1,1,2,1,1,1,17000,Boro Bazar,Mymensingh
+1862,3,2,1,1,2,1,1,4,1,0,1,16000,Boro Bazar,Mymensingh
+1875,5,5,4,1,2,1,1,4,1,1,0,13000,Charpara,Mymensingh
+1004,2,2,1,1,2,1,1,3,0,0,0,18000,Boro Bazar,Mymensingh
+900,3,2,1,1,2,1,1,1,0,0,1,11000,Brahmaputra Ghat,Mymensingh
+1013,4,2,1,1,1,1,1,3,0,0,0,14000,Kachari Bazar,Mymensingh
+1830,4,3,2,1,0,1,1,1,1,0,0,17000,TownHall,Mymensingh
+1921,3,2,0,1,0,1,1,1,0,1,0,17000,Choto Bazar,Mymensingh
+1793,2,1,0,1,0,1,1,1,0,1,0,9000,Kachijhuli,Mymensingh
